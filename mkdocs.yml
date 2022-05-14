@@ -1,4 +1,4 @@
-site_name: visão Computacional
+site_name: cv
 site_author: Arnaldo Viana 
 
 
@@ -13,8 +13,8 @@ theme:
   name: active-handout
   #custom_dir: overrides
 
-docs_dir: docs
-site_dir: material
+docs_dir: material
+site_dir: docs
 
 
 repo_url: https://github.com/arnaldojr/cv/
