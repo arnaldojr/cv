@@ -1,4 +1,4 @@
-# SI - AI, CV, IoT
+# Bem vindo disciplina de Visão Computacional
 
 Olá pessoal, bem vindos!! Neste repositório você irá encontrar alguns conteúdos ministrados em sala de aula assim como os exemplos e laborórios. 
 

@@ -17,9 +17,9 @@ docs_dir: docs
 site_dir: docs
 
 
-#repo_url: https://github.com/arnaldojr/cv/
-#repo_name: "cv"
-#site_url: https://arnaldojr.github.io/cv/
+repo_url: https://github.com/arnaldojr/cv/
+repo_name: "cv"
+site_url: https://arnaldojr.github.io/cv/
 
 # Extensions / plugins
 
