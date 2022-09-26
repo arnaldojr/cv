@@ -83,6 +83,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Instalação: instalacao/index.md
+  - Checkpoint: Checkpoint/index.md
   - Laboratórios: 
     - Lab01 - Intro PID: aulas/lab01/IntroPID.ipynb
     - Lab02 - Seguimentação por pixel: aulas/lab02/atividade2.ipynb

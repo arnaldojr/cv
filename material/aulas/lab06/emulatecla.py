@@ -33,11 +33,11 @@ keyboard = Controller()
 
 
 #filtro baixo
-image_lower_hsv1 = np.array([160,130,190])
-image_upper_hsv1 = np.array([180,205,255])
+image_lower_hsv1 = np.array([120,130,10])
+image_upper_hsv1 = np.array([180,255,255])
 #filtro alto
-image_lower_hsv2 = np.array([0,130,190])
-image_upper_hsv2 = np.array([10,205,255])
+image_lower_hsv2 = np.array([0,130,100])
+image_upper_hsv2 = np.array([30,255,255])
 
 
 
