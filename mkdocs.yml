@@ -49,9 +49,9 @@ plugins:
   - mkdocs-jupyter:
       execute: False
 
-extra_css:
+#extra_css:
 #  - css/termynal.css
-  - https://cdn.jsdelivr.net/gh/insper-education/active-handout-css@main/devlife.css
+#  - https://cdn.jsdelivr.net/gh/insper-education/active-handout-css@main/devlife.css
 
 
 markdown_extensions:
