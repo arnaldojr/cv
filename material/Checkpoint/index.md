@@ -40,7 +40,7 @@ Download da imagem: [circulo.png](circulo.PNG)
 ![](circulo.PNG)
 
 
-*** R2 - NOTA 8: Faz o R1 e:***
+*** R2 - NOTA 8: Faz o R1 e: ***
 
 - Traça uma reta entre os dois centros segmentados; (máx 0,5 pontos) 
 Calcula o ângulo de inclinação da reta em relação ao plano horizontal, inclinação em graus. O resultado esperado é uma imagem com  uma reta entre centros e o valor do ângulo exibido na tela;  ***(máx 1,5 pontos)***
