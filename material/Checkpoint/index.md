@@ -8,15 +8,11 @@ O nosso programa será capaz de captar através de uma webcam “ alguns movimen
 
 ![](Imagem1.png)
 
-```
 !!! video
-    ![emula](https://youtu.be/LEsDMKGUx5I)
-```
+    ![](https://youtu.be/LEsDMKGUx5I)
 
-```
 !!! video
-    ![emula](https://youtu.be/0pjg606_eWg)
-```
+    ![](https://youtu.be/0pjg606_eWg)
 
 
 ## Informações importantes Entrega
